@@ -1,8 +1,5 @@
-                             Hi there 👋
-
-🐤 I’m Dahae Jung and currently learning on Spring, JPA, Spring and so on!
-      
-      
+Hi there 👋
+     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungdahae1225&show_icons=true&theme=aura_dark)
 
 🔨 Tech Skill and Interest ⛏
