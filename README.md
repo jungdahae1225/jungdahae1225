@@ -19,9 +19,9 @@
 -----------
      🖊 2019.06 ~ 2021.05. C, JAVA Team Study
   
-     🖊 2020.11 ~ 2021.04 서울산업진흥원 SSAC 1기
+     🖊 2020.11 ~ 2021.04. 서울산업진흥원 SSAC 1기
 
-     👩‍🏫 2021.04 ~ 2021.06 Middle school after-school learning Python Mentor
+     👩‍🏫 2021.04 ~ 2021.06. 고등학교 방과후 코딩캠프 보조교사 
 
 
 👯 Team Project
