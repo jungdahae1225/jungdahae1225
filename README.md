@@ -13,7 +13,7 @@
  -->
 <img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JPA-teal?style=flat-square"/>  <img src="https://img.shields.io/badge/Query Dsl-blue?style=flat-square"/>  
 
-<img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/HTML5-green?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/CSS3-teal?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=Sass&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=FFFFFF"/>
 
 
 
