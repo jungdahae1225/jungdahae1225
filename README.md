@@ -11,7 +11,7 @@
 <!-- <img src="https://img.shields.io/badge/H2-blue?style=flat-square"/>  -->
 <!-- <img src="https://img.shields.io/badge/Linux-yellow?style=flat-square&logo=Linux&logoColor=FFFFFF"/> 
  -->
-<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JPA-teal?style=flat-square"/>  <img src="https://img.shields.io/badge/Query Dsl-blue?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-grey?style=flat-square"/>  
+<img src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JPA-teal?style=flat-square"/>  <img src="https://img.shields.io/badge/Query Dsl-blue?style=flat-square"/> <img src="https://img.shields.io/badge/MySQL-grey?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>  
 
 <img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Bootstrap-purple?style=flat-square&logo=Bootstrap&logoColor=FFFFFF"/>
 
