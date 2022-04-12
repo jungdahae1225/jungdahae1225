@@ -33,7 +33,7 @@
      📍 2020.12 ~ 2021.01. SBA 웹개발팀 프로젝트 1인 식자재 마켓 사이트 구현 (🏆대상 수상)
         https://github.com/SBA-Web-3Team
         
-     📍 2021.01 ~ 2021.07. funD 6기(Buravel) 여행 예산 공유 웹서비스 구현
+     📍 2021.01 ~ 2021.07. Buravel 여행 예산 공유 웹서비스 구현
        https://github.com/Buravel
 
 
