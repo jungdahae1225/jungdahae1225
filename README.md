@@ -32,7 +32,9 @@
 -----------
      📍 2020.12 ~ 2021.01. SBA 웹개발팀 프로젝트 1인 식자재 마켓 사이트 구현 (🏆대상 수상)
         
-     📍 2021.01 ~ 2021.07. Buravel 여행 예산 공유 웹서비스 구현
+     📍 2021.02 ~ 2021.06. Buravel 여행 예산 공유 웹서비스 구현
+     
+     📍 2022.02 ~ 2022.06. Collabiz 기업 협악 매칭 웹서비스 구현
 
 
 ![reversal](https://capsule-render.vercel.app/api?type=soft&reversal=false&color=DCEDC8)
