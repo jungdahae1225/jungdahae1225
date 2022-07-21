@@ -35,6 +35,5 @@
      📍 2021.02 ~ 2021.06. Buravel 여행 예산 공유 웹서비스 구현
      
      📍 2022.02 ~ 2022.06. Collabiz 기업 협악 매칭 웹서비스 구현
-
-
-![reversal](https://capsule-render.vercel.app/api?type=soft&reversal=false&color=DCEDC8)
+     
+     📍 2022.02 ~ 2022.11. FINE 한이음 대학 커뮤니티
