@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=DCEDC8)
-
 **Hi there**👋
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungdahae1225&show_icons=true&theme=aura_dark)
