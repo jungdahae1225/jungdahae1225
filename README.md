@@ -1,7 +1,7 @@
 **Hi there**👋
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungdahae1225&show_icons=true&theme=aura_dark)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jungdahae1225)](https://github.com/깃허브아이디/github-readme-stats)
 
 🔨 Tech Skill and Interest ⛏
 -----------
@@ -25,7 +25,7 @@
      
      👩‍ 2021.04 ~ 2021.06. 스프레틱스 IT 개발팀 인턴
 
-     👩‍🏫 2021.04 ~ 2021.06. 고등학교 방과후 코딩캠프 교사 
+     👩‍🏫 2021.04 ~ 2021.06. 강일고등학교 방과후 코딩캠프 교사 
      
      👩‍ 2022.08 ~ 2022.10. 한화손해보험 IT 개발팀 인턴
 
